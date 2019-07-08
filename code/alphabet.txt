@@ -1,0 +1,4 @@
+symbols: [ T, V, W, X, Y, Z ]
+probabilities: [ 0.32, 0.31, , 0.2, 0.1, 0.05, 0.02]
+bit combimation: [0, 10, 110, 1110, 11110, 11111]
+code length: [1, 2, 3, 4, 5, 5]
